@@ -11,11 +11,11 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-2.jpg",
     posterUrl: "./assets/images/poster-2.jpg",
-    title: "Sempurna",
-    album: "Andra & The Backbone",
-    year: 2006,
-    artist: "Andra And The Backbone",
-    musicPath: "./assets/music/music-2.mp3",
+    title: "Penjaga Hati",
+    album: "Penjaga Hati",
+    year: 2023,
+    artist: "Nadhif Basalamah",
+    musicPath: "./assets/music/music-1.mp3",
   },
 ];
 
