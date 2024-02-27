@@ -7,15 +7,7 @@
  */
 
 const musicData = [
-  {
-    backgroundImage: "./assets/images/poster-1.jpg",
-    posterUrl: "./assets/images/poster-1.jpg",
-    title: "Penjaga Hati",
-    album: "Penjaga Hati",
-    year: 2023,
-    artist: "Nadhif Basalamah",
-    musicPath: "./assets/music/music-1.mp3",
-  },
+ 
   {
     backgroundImage: "./assets/images/poster-2.jpg",
     posterUrl: "./assets/images/poster-2.jpg",
@@ -24,33 +16,6 @@ const musicData = [
     year: 2006,
     artist: "Andra And The Backbone",
     musicPath: "./assets/music/music-2.mp3",
-  },
-  {
-    backgroundImage: "./assets/images/poster-3.jpg",
-    posterUrl: "./assets/images/poster-3.jpg",
-    title: "Bercinta Lewat Kata",
-    album: "Bercinta Lewat Kata",
-    year: 2023,
-    artist: "Donne Maula",
-    musicPath: "./assets/music/music-3.mp3",
-  },
-  {
-    backgroundImage: "./assets/images/poster-4.jpg",
-    posterUrl: "./assets/images/poster-4.jpg",
-    title: "Dunia Tipu-Tipu",
-    album: "Tutur Batin",
-    year: 2021,
-    artist: "Yura Yunita",
-    musicPath: "./assets/music/music-4.mp3",
-  },
-  {
-    backgroundImage: "./assets/images/poster-5.jpg",
-    posterUrl: "./assets/images/poster-5.jpg",
-    title: "Celengan Rindu (Cover Feby Putri)",
-    album: "Tempat Aku Pulang",
-    year: 2019,
-    artist: "Fiersa Besari",
-    musicPath: "./assets/music/music-5.mp3",
   },
 ];
 
